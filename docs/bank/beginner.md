@@ -9,7 +9,7 @@ icon: clue/beginner
     <img src="../images/equipment/beginner.png" />
     </div>
     <div class="left-container">
-        <img src="../images/inventory/beginner.png" />
+        <img src="../images/inventory/beginnnnnner.png" />
     </div>
     <div class="right-container">
         <div class="half-container-top">
